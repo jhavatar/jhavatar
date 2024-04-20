@@ -16,7 +16,7 @@ println(bio)
 
 ### Profiles 😎
 <a href="https://stackoverflow.com/users/778951/jhavatar">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="[https://stackoverflow.com/users/778951/jhavatar](https://www.hackerrank.com/profile/jhdevaal)">![image](https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&w=128&q=75&logoColor=white)</a>
+<a href="https://www.hackerrank.com/profile/jhdevaal">![image](https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&w=128&q=75&logoColor=white)</a>
 
 ### 📈
 <p align="left">
