@@ -18,10 +18,6 @@ println(bio)
 <a href="https://stackoverflow.com/users/778951/jhavatar">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="[https://stackoverflow.com/users/778951/jhavatar](https://www.hackerrank.com/profile/jhdevaal)">![image](https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&w=128&q=75&logoColor=white)</a>
 
-### Tech </>
-<a href="https://www.android.com/">![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</a>
-<a href="https://kotlinlang.org/">![image](https://img.shields.io/badge/kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)</a>
-
 ### 📈
 <p align="left">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhavatar&count_private=true&show_icons=true&theme=dracula"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhavatar&layout=compact&theme=dracula"/>
