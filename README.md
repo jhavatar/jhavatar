@@ -2,7 +2,7 @@
 val name = "Jan-Hendrik de Vaal"
 val role = "Software Engineer"
 val niche = "Mobile Development, where I manifest the will of the Omnissiah through Androidmancy,"
-val goal := "further his command of software engineering through binary trials that test the limits of his cognitive and creative capabilities. 
+val goal = "further his command of software engineering through binary trials that test the limits of his cognitive and creative capabilities" 
 
 val bio = "Hi, I'm $name 👋. A $role that specializes in $niche to $goal."
 println(bio)
