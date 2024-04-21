@@ -11,7 +11,7 @@ println(bio)
 ### Freelance work 👨🏻‍💻
 - [my resume](https://github.com/jhavatar/mycv/files/15048538/Jan-Hendrik.de.Vaal.CV.-.April.2024.pdf)
 - contact me through the channels on the sidebar
-- look for me on one of the following freelance platforms:
+- or look for me on one of the following freelance platforms:
 <a href="https://www.toptal.com">![image](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white)</a> <a href="https://andela.com/">![image](https://img.shields.io/badge/ANDELA-173B3F?style=for-the-badge&logo=ANDELA&logoColor=FFFFFF)</a> <a href="https://www.turing.com/">![image](https://img.shields.io/badge/TURING-0F0F0F?style=for-the-badge&logo=url=%2Fimg%2FLogo.svg&w=128&q=75&logoColor=FFFFFF)</a>
 
 ### Profiles 😎
