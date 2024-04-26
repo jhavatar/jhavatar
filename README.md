@@ -16,6 +16,7 @@ println(bio)
 <a href="https://andela.com/">![image](https://img.shields.io/badge/ANDELA-173B3F?style=for-the-badge&logo=ANDELA&logoColor=FFFFFF)</a>
 <a href="https://www.turing.com/">![image](https://img.shields.io/badge/TURING-0F0F0F?style=for-the-badge&logo=url=%2Fimg%2FLogo.svg&w=128&q=75&logoColor=FFFFFF)</a>
 <a href="https://arc.dev">![image](https://img.shields.io/badge/arc()-075AFF?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
+<a href="https://gun.io">![image](https://img.shields.io/badge/gun.io-90F2B1?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
 
 ### Profiles 😎
 <a href="https://stackoverflow.com/users/778951/jhavatar">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
