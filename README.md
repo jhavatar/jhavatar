@@ -9,7 +9,7 @@ println(bio)
 ```
 
 ### Freelance work 👨🏻‍💻
-- [my resume](https://github.com/jhavatar/mycv/files/15048538/Jan-Hendrik.de.Vaal.CV.-.April.2024.pdf)
+- [my resume](https://github.com/user-attachments/files/18933998/Jan-Hendrik.de.Vaal.CV.-.Feb.2025.pdf)
 - contact me through the channels on the sidebar
 - or look for me on one of the following freelance platforms:
 <a href="https://www.toptal.com">![image](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white)</a>
