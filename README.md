@@ -25,7 +25,8 @@ println(bio)
 
 ### 📈
 <p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhavatar&count_private=true&show_icons=true&theme=dracula"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhavatar&layout=compact&theme=dracula"/>
+  <img align="center" src="metrics.stats.svg" />
+  <img align="center" src="metrics.languages.svg" />
 </p>
 
 ### 💰
