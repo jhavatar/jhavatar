@@ -27,7 +27,6 @@ println(bio)
 <p align="left">
   <img align="center" src="metrics.stats.svg" />
   <img align="center" src="metrics.languages.svg" />
-  <img align="center" src="metrics.achievements.svg" />
 </p>
 
 ### 💰
