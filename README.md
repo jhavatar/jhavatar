@@ -5,7 +5,7 @@
   DESIGNATION    : Jan-Hendrik de Vaal
   RANK           : Software Engineer (Mobile)
   CHARGES        : [1] Androidmancy
-                   [2] Kotlin Multiplatform perpetrations
+                   [2] Kotlin Multiplatform Maleficium
   PURSUIT        : Further command through binary trials that
                    test the limits of cognitive and creative
                    capabilities
