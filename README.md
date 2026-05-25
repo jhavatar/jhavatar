@@ -24,10 +24,6 @@
 <a href="https://arc.dev">![image](https://img.shields.io/badge/arc()-075AFF?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
 <a href="https://gun.io">![image](https://img.shields.io/badge/gun.io-90F2B1?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
 
-### Profiles 😎
-<a href="https://stackoverflow.com/users/778951/jhavatar">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="https://www.hackerrank.com/profile/jhdevaal">![image](https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&w=128&q=75&logoColor=white)</a>
-
 ### 📈
 <p align="left">
   <img align="center" src="metrics.stats.svg" />
