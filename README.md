@@ -1,11 +1,16 @@
-```kotlin
-val name = "Jan-Hendrik de Vaal"
-val role = "Software Engineer"
-val niche = "Mobile Development, where I manifest the will of the Omnissiah through Androidmancy,"
-val goal = "further my command of software engineering through binary trials that test the limits of my cognitive and creative capabilities" 
+```
+> DOSSIER #JHV-7749
+> SCANNING...
 
-val bio = "Hi, I'm $name 👋. A $role that specializes in $niche to $goal."
-println(bio)
+  DESIGNATION    : Jan-Hendrik de Vaal
+  RANK           : Software Engineer (Mobile)
+  CHARGES        : [1] Androidmancy
+                   [2] Kotlin Multiplatform perpetrations
+  PURSUIT        : Further command through binary trials that
+                   test the limits of cognitive and creative
+                   capabilities
+
+> VERDICT        : SANCTIONED BY THE OMNISSIAH ✓
 ```
 
 ### Freelance work 👨🏻‍💻
