@@ -23,6 +23,9 @@
 <a href="https://arc.dev">![image](https://img.shields.io/badge/arc()-075AFF?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
 <a href="https://gun.io">![image](https://img.shields.io/badge/gun.io-90F2B1?style=for-the-badge&w=128&q=75&logoColor=FFFFFF)</a>
 
+### 🛠 Recent Side Project
+- [Big Box Chaser](https://github.com/jhavatar/BigBoxChaser) — A personal catalog for your PC big box game collection.
+
 ### 📈
 <p align="left">
   <img align="center" src="metrics.stats.svg" />
