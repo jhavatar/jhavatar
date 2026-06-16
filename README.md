@@ -25,6 +25,7 @@
 
 ### 🛠 Recent Side Projects
 - [Big Box Chaser](https://bigboxchaser.com) — A personal catalog for your PC big box game collection, built with Kotlin Multiplatform (Android, iOS, Desktop, Web)
+- [BigBox3D](https://github.com/jhavatar/BigBox3D) – Open source KMP library that 3D renders the big box of a PC game (Android, iOS, Desktop, Web)
 
 ### 📈
 <p align="left">
