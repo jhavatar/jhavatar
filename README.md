@@ -25,6 +25,7 @@
 
 ### 🛠 Recent Side Projects
 - [Big Box Chaser](https://bigboxchaser.com) — A personal catalog for your PC big box game collection, built with Kotlin Multiplatform (Android, iOS, Desktop, Web)
+- [Dungeon Crawler Plugin for Kubriko](https://github.com/jhavatar/kubriko-dungeon-crawler) - Open source first-person cell-based dungeon crawler plugin for Kubriko game engine.
 - [BigBox3D](https://github.com/jhavatar/BigBox3D) – Open source KMP library that 3D renders the big box of a PC game and synthesizes any missing faces (Android, iOS, Desktop, Web)
 
 ### 📈
