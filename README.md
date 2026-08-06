@@ -15,7 +15,7 @@
 
 ### 👨🏻‍💻 Freelance
 
-- [Resume / CV](https://github.com/user-attachments/files/26438990/Jan-Hendrik_de_Vaal_CV_apr_2026.pdf)
+- [Resume / CV](https://github.com/user-attachments/files/30793437/Jan-Hendrik_de_Vaal_CV_aug_2026.pdf)
 - contact directly or on platforms:
 <a href="https://www.toptal.com">![image](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white)</a>
 <a href="https://andela.com/">![image](https://img.shields.io/badge/ANDELA-173B3F?style=for-the-badge&logo=ANDELA&logoColor=FFFFFF)</a>
