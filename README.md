@@ -14,8 +14,7 @@
 ```
 
 ### 👨🏻‍💻 Freelance
-
-- [Resume / CV](https://github.com/user-attachments/files/31845349/Jan-Hendrik_de_Vaal_CV_sept_2026.pdf)
+- [Resume / CV](https://github.com/user-attachments/files/34271351/Jan-Hendrik_de_Vaal_CV_nov_2026.pdf)
 - <a href="https://www.toptal.com/developers/resume/jan-hendrik-de-vaal#XMAaQ">![image](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white)</a>
 
 ### 🛠 Recent Side Projects
