@@ -17,10 +17,11 @@
 - [Resume / CV](https://github.com/user-attachments/files/34271351/Jan-Hendrik_de_Vaal_CV_nov_2026.pdf)
 - <a href="https://www.toptal.com/developers/resume/jan-hendrik-de-vaal#XMAaQ">![image](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white)</a>
 
-### 🛠 Recent Side Projects
+### 🛠 Featured Side Projects
 - [Big Box Chaser](https://bigboxchaser.com) — A personal catalog for your PC big box game collection, built with Kotlin Multiplatform (Android, iOS, Desktop, Web)
 - [Dungeon crawler engine plugin for Kubriko](https://github.com/jhavatar/kubriko-dungeon-crawler) - Open source first-person cell-based dungeon crawler plugin for Kubriko game engine.
 - [BigBox3D](https://github.com/jhavatar/BigBox3D) – Open source KMP library that 3D renders the big box of a PC game and synthesizes any missing faces (Android, iOS, Desktop, Web)
+- [Good Old GOG](https://play.google.com/store/apps/details?id=io.chthonic.gog.client) – An unofficial Android client for faster, simpler access to the GOG catalogue. 100K+ downloads.
 
 ### 📈
 <p align="left">
